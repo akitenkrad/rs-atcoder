@@ -2,6 +2,7 @@
   "rust-analyzer.linkedProjects": [
     "training/A01/Cargo.toml",
     "training/A02/Cargo.toml",
-    "training/A03/Cargo.toml"
+    "training/A03/Cargo.toml",
+    "training/A04/Cargo.toml"
   ]
 }
