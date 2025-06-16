@@ -19,4 +19,7 @@
   - [Answer](training/A05/src/main.rs)
 - A06 - How Many Guests? ⭐️
   - [Problem](https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_ai)
-  - [Answer](training/A05/src/main.rs)
+  - [Answer](training/A06/src/main.rs)
+- A07 - Event Attendance ⭐️
+  - [Problem](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_g)
+  - [Answer](training/A07/src/main.rs)
