@@ -26,3 +26,6 @@
 - A08 - Event Attendance ⭐️
   - [Problem](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_h)
   - [Answer](training/A08/src/main.rs)
+- A09 - Winter in ALGO Kingdom
+  - [Problem](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_i)
+  - [Answer](training/A09/src/main.rs)
