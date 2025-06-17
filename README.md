@@ -23,3 +23,6 @@
 - A07 - Event Attendance ⭐️
   - [Problem](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_g)
   - [Answer](training/A07/src/main.rs)
+- A08 - Event Attendance ⭐️
+  - [Problem](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_h)
+  - [Answer](training/A08/src/main.rs)
